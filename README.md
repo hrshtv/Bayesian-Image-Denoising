@@ -1,8 +1,8 @@
 # Bayesian Image Denoising
 
-<img src="plots/noisy.jpg" width="33%"></img>
-<img src="plots/denoised_daf.jpg" width="33%"></img>
-<img src="plots/noiseless.jpg" width="33%"></img>
+<img align="left" src="plots/noisy.jpg" width="30%"></img>
+<img align="center" src="plots/denoised_daf.jpg" width="30%"></img>
+<img align="right" src="plots/noiseless.jpg" width="30%"></img>
 
 A *Maximum-A-Posteriori* (MAP) Bayesian approach for image denoising that uses Markov Random Fields (MRFs) as the prior model
 
