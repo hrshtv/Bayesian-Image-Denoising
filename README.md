@@ -1,4 +1,4 @@
-# Bayesian Image Denoising
+<h1 align="center">Bayesian Image Denoising using MRF Priors</h1>
 
 <img align="left" src="plots/noisy.jpg" width="30%"></img>
 <p align="center">
@@ -24,3 +24,7 @@ See [`code/main.mlx`](code/main.mlx) and run it cell by cell.
   - [`code/dafPrior.m`](code/dafPrior.m): A discontinuity adaptive function
 - **Noise Model:**
   - [`code/weightedNoiseModel.m`](code/weightedNoiseModel.m): Contains implementations of the Gaussian and the Rician noise models 
+
+---
+
+*(This was done as a course assignment for CS736: Medical Image Computing, Spring 2021, IIT Bombay)*
